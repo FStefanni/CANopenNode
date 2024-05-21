@@ -22,7 +22,7 @@
  * limitations under the License.
  */
 
-#include "extra/CO_trace.h"
+#include "CO_trace.h"
 
 #if (CO_CONFIG_TRACE) & CO_CONFIG_TRACE_ENABLE
 

@@ -26,10 +26,10 @@
 #ifndef CO_HB_CONS_H
 #define CO_HB_CONS_H
 
-#include "301/CO_driver.h"
-#include "301/CO_ODinterface.h"
-#include "301/CO_NMT_Heartbeat.h"
-#include "301/CO_Emergency.h"
+#include "CO_driver.h"
+#include "CO_ODinterface.h"
+#include "CO_NMT_Heartbeat.h"
+#include "CO_Emergency.h"
 
 /* default configuration, see CO_config.h */
 #ifndef CO_CONFIG_HB_CONS

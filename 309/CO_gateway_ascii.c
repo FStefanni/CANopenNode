@@ -24,7 +24,7 @@
  * limitations under the License.
  */
 
-#include "309/CO_gateway_ascii.h"
+#include "CO_gateway_ascii.h"
 
 #if (CO_CONFIG_GTW) & CO_CONFIG_GTW_ASCII
 

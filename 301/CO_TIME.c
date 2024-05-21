@@ -25,7 +25,7 @@
 
 #include <string.h>
 
-#include "301/CO_TIME.h"
+#include "CO_TIME.h"
 
 #if (CO_CONFIG_TIME) & CO_CONFIG_TIME_ENABLE
 

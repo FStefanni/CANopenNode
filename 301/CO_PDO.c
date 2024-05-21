@@ -25,7 +25,7 @@
 
 #include <string.h>
 
-#include "301/CO_PDO.h"
+#include "CO_PDO.h"
 
 #if (CO_CONFIG_PDO) & (CO_CONFIG_RPDO_ENABLE | CO_CONFIG_TPDO_ENABLE)
 

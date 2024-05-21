@@ -23,11 +23,11 @@
  * limitations under the License.
  */
 
-#include "304/CO_SRDO.h"
+#include "CO_SRDO.h"
 
 #if (CO_CONFIG_SRDO) & CO_CONFIG_SRDO_ENABLE
 
-#include "301/crc16-ccitt.h"
+#include "../301/crc16-ccitt.h"
 
 /* verify configuration */
 #if !((CO_CONFIG_CRC16) & CO_CONFIG_CRC16_ENABLE)

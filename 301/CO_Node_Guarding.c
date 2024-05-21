@@ -23,7 +23,7 @@
  * limitations under the License.
  */
 
-#include "301/CO_Node_Guarding.h"
+#include "CO_Node_Guarding.h"
 
 #if (CO_CONFIG_NODE_GUARDING) & CO_CONFIG_NODE_GUARDING_SLAVE_ENABLE
 

@@ -23,7 +23,7 @@
  * limitations under the License.
  */
 
-#include "304/CO_GFC.h"
+#include "CO_GFC.h"
 
 #if (CO_CONFIG_GFC) & CO_CONFIG_GFC_ENABLE
 

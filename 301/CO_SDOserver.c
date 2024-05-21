@@ -25,8 +25,8 @@
 
 #include <string.h>
 
-#include "301/CO_SDOserver.h"
-#include "301/crc16-ccitt.h"
+#include "CO_SDOserver.h"
+#include "crc16-ccitt.h"
 
 /* verify configuration */
 #if (CO_CONFIG_SDO_SRV) & CO_CONFIG_SDO_SRV_SEGMENTED

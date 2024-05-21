@@ -23,7 +23,7 @@
  * limitations under the License.
  */
 
-#include "301/CO_HBconsumer.h"
+#include "CO_HBconsumer.h"
 
 #if (CO_CONFIG_HB_CONS) & CO_CONFIG_HB_CONS_ENABLE
 

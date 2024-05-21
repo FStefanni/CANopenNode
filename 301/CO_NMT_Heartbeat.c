@@ -23,7 +23,7 @@
  * limitations under the License.
  */
 
-#include "301/CO_NMT_Heartbeat.h"
+#include "CO_NMT_Heartbeat.h"
 
 
 /*

@@ -23,7 +23,7 @@
  * limitations under the License.
  */
 
-#include "301/CO_SYNC.h"
+#include "CO_SYNC.h"
 
 #if (CO_CONFIG_SYNC) & CO_CONFIG_SYNC_ENABLE
 

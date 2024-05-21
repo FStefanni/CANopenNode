@@ -23,7 +23,7 @@
  * limitations under the License.
  */
 
-#include "303/CO_LEDs.h"
+#include "CO_LEDs.h"
 
 #if (CO_CONFIG_LEDS) & CO_CONFIG_LEDS_ENABLE
 

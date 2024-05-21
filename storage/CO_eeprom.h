@@ -26,7 +26,7 @@
 #ifndef CO_EEPROM_H
 #define CO_EEPROM_H
 
-#include "301/CO_driver.h"
+#include "../301/CO_driver.h"
 
 #ifdef __cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
  * limitations under the License.
  */
 
-#include "301/crc16-ccitt.h"
+#include "crc16-ccitt.h"
 
 #if (CO_CONFIG_CRC16) & CO_CONFIG_CRC16_ENABLE
 #if !((CO_CONFIG_CRC16) & CO_CONFIG_CRC16_EXTERNAL)

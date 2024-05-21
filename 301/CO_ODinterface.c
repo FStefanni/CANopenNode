@@ -24,7 +24,7 @@
 
 #include <string.h>
 #define OD_DEFINITION
-#include "301/CO_ODinterface.h"
+#include "CO_ODinterface.h"
 
 
 /******************************************************************************/

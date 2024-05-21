@@ -23,7 +23,7 @@
  * limitations under the License.
  */
 
-#include "301/CO_fifo.h"
+#include "CO_fifo.h"
 
 #if (CO_CONFIG_FIFO) & CO_CONFIG_FIFO_ENABLE
 

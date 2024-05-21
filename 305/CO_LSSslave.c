@@ -25,7 +25,7 @@
  * limitations under the License.
  */
 
-#include "305/CO_LSSslave.h"
+#include "CO_LSSslave.h"
 
 #if (CO_CONFIG_LSS) & CO_CONFIG_LSS_SLAVE
 

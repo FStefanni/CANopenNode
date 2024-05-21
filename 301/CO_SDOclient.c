@@ -24,7 +24,7 @@
  * limitations under the License.
  */
 
-#include "301/CO_SDOclient.h"
+#include "CO_SDOclient.h"
 
 #if (CO_CONFIG_SDO_CLI) & CO_CONFIG_SDO_CLI_ENABLE
 

@@ -26,7 +26,7 @@
 #ifndef CO_FIFO_H
 #define CO_FIFO_H
 
-#include "301/CO_driver.h"
+#include "CO_driver.h"
 
 /* default configuration, see CO_config.h */
 #ifndef CO_CONFIG_FIFO

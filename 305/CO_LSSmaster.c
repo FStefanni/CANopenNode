@@ -24,7 +24,7 @@
  * limitations under the License.
  */
 
-#include "305/CO_LSSmaster.h"
+#include "CO_LSSmaster.h"
 
 #if (CO_CONFIG_LSS) & CO_CONFIG_LSS_MASTER
 
